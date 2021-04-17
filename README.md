@@ -1,3 +1,21 @@
-# datastructure-101
+# Homework Week3
 
-This is a template repository for data structure learning and practice.
+- 熟悉OOP概念
+    - inheritance
+    - polymophism
+    - static method
+    - static class
+    - nested class
+    - parse by reference —> java
+    - primitive type —> java variable type
+- 作业
+    - 设计一个类 父类Shape，
+    - 定义以下方法：
+        - getArea();
+        - getPerimeter();
+        - getStringName();
+    - 建立以下几个子类
+        - Triangle
+        - Rectangle
+        - Circle
+        - 实现对应的父类方法
